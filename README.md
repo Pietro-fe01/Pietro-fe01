@@ -9,6 +9,8 @@
       <img src="https://img.shields.io/badge/Sololearn-red?style=for-the-badge&logo=sololearn&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
+  
+  <img src="https://komarev.com/ghpvc/?username=Pietro-fe01&style=flat-square&color=blue" alt=""/>
 </div>
 
 
