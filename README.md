@@ -13,10 +13,12 @@
   <img src="https://komarev.com/ghpvc/?username=Pietro-fe01&style=flat-square&color=blue" alt=""/>
 </div>
 
+#
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pietro-fe01&theme=vue">
 </div>
 
+# Languages
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20px">
@@ -33,6 +35,7 @@
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="20px">
 </div>
 
+# Details
 <div align="center">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Pietro-fe01">
 
